@@ -145,6 +145,9 @@ footer{
 .foot1{
     list-style: none;
 }
+.foot1 i{
+    padding: 1rem;
+}
 .map{
     text-align: center;
 }
